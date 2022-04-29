@@ -73,7 +73,7 @@
     "@types/redis": "^0.12.1",
     "@types/body-parser": "^0.0.34",
     "@types/compression": "^0.0.33",
-    "async": "^2.1.1",
+    "async": "^2.6.4",
     "autoprefixer": "^6.5.1",
     "browser-sync": "^2.17.3",
     "codelyzer": "^2.0.1",
